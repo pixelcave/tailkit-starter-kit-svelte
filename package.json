@@ -21,9 +21,9 @@
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.2.1",
     "prettier": "^3.8.1",
-    "prettier-plugin-svelte": "^3.5.0",
+    "prettier-plugin-svelte": "^3.5.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
-    "svelte": "^5.53.6",
+    "svelte": "^5.54.0",
     "tailwindcss": "^4.1.17",
     "vite": "^7.3.1"
   }
